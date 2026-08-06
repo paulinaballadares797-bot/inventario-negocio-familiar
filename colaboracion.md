@@ -1,7 +1,7 @@
 # Colaboración
 
 ## Compañero colaborador
-[Nombre de tu compañero] fue agregado como colaborador del repositorio 
+Alex Vasquez  fue agregado como colaborador del repositorio 
 para realizar un aporte puntual, según lo solicitado en la actividad.
 
 ## Actividad asignada
