@@ -16,6 +16,7 @@ físicos. Esta práctica genera varios inconvenientes:
 Se adjunta en la carpeta `evidencias/` una fotografía del cuaderno de 
 inventario actualmente utilizado, donde se observan tachones, registros 
 incompletos y falta de orden cronológico.
+![Registro de inventario en papel](evidencias/inventario.jpg)
 
 ## Impacto
 Este problema afecta directamente la toma de decisiones del negocio 
