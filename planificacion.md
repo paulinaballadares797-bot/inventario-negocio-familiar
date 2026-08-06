@@ -2,7 +2,7 @@
 
 | Fase | Actividad | Duración estimada |
 |------|-----------|-------------------|
-| 1 | Identificación del problema y recolección de evidencia | 2 días |
+| 1 | Identificación del problema y recolección de evidencia | 1 día |
 | 2 | Definición de la solución conceptual | 2 días |
 | 3 | Definición de requisitos y priorización | 2 días |
 | 4 | Creación del repositorio y estructura de archivos | 1 día |
